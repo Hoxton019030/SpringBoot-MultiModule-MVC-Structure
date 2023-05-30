@@ -1,0 +1,1 @@
+INSERT INTO MEMBER ( NAME , AGE ) VALUES ( 'Hoxton',25);
